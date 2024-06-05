@@ -1,3 +1,5 @@
+## CNN
+
 # Multi-Class Image Classification with Transfer Learning
 
 This repository contains a Jupyter notebook for building a multi-class image classifier using transfer learning with a pre-trained ResNet-50 model. The notebook covers various steps including data preprocessing, model selection, training, evaluation, fine-tuning, and performance analysis.
