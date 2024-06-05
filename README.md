@@ -1,4 +1,4 @@
-## CNN
+## Convolutional Neural Network
 
 # Multi-Class Image Classification with Transfer Learning
 
